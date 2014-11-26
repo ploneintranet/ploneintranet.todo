@@ -1,2 +1,0 @@
-graft src/ploneintranet
-include *.cfg *.rst *.in
