@@ -44,6 +44,7 @@ setup(
         'zope.interface',
         'zope.component',
         'rwproperty',
+        'persistent',
     ],
     extras_require={
         'test': [
