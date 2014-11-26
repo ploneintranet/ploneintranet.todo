@@ -45,6 +45,7 @@ setup(
         'zope.component',
         'rwproperty',
         'persistent',
+        'plone.api',
     ],
     extras_require={
         'test': [
