@@ -51,6 +51,7 @@ setup(
         'test': [
             'mock',
             'plone.app.testing',
+            'plone.app.contenttypes[test]',
             'unittest2',
         ],
         'develop': [
