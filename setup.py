@@ -40,6 +40,7 @@ setup(
         'setuptools',
         'plone.behavior',
         'plone.directives.form',
+        'plone.directives.dexterity',
         'zope.schema',
         'zope.interface',
         'zope.component',
