@@ -54,6 +54,7 @@ setup(
             'plone.app.testing',
             'plone.app.contenttypes[test]',
             'unittest2',
+            'fake-factory',
         ],
         'develop': [
             'plone.reload',
