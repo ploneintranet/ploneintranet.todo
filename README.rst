@@ -7,7 +7,25 @@ Plone Intranet "Must Read" feature
 * `Source code @ GitHub <https://github.com/ebrehault/ploneintranet.todo>`_
 * `Releases @ PyPI <http://pypi.python.org/pypi/ploneintranet.todo>`_
 * `Documentation @ ReadTheDocs <http://ploneintranettodo.readthedocs.org>`_
-* `Continuous Integration @ Travis-CI <http://travis-ci.org/ebrehault/ploneintranet.todo>`_
+
+Build status
+------------
+
+Unit tests
+~~~~~~~~~~
+
+.. image:: https://travis-ci.org/ploneintranet/ploneintranet.invitations.svg?branch=master
+   :target: https://travis-ci.org/ploneintranet/ploneintranet.invitations
+.. image:: http://jenkins.ploneintranet.net/buildStatus/icon?job=Plone%20Intranet%20Todo
+    :target: http://jenkins.ploneintranet.net/job/Plone%20Intranet%20Todo/
+
+Robot tests for Plone Intranet
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: http://jenkins.ploneintranet.net/buildStatus/icon?job=Plone%20Intranet%20Suite%20Master
+    :target: http://jenkins.ploneintranet.net/job/Plone%20Intranet%20Suite%20Master/badge/
+
+
 
 How it works
 ============
